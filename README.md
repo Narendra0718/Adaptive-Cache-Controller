@@ -165,11 +165,11 @@ Three different workloads were tested.
 
 ### RTL Waveform
 
-![Repeated Waveform](images/repetitive_wl_waves.png)
+![Repeated Waveform](Adaptive-Cache-Controller/images/repetitive_wl_waves.png)
 
 ### Console Output
 
-![Repeated Console](images/repetitive_wl_cons.png)
+![Repeated Console](Adaptive-Cache-Controller/images/repetitive_wl_cons.png)
 
 ### Results
 
@@ -198,11 +198,11 @@ The adaptive selector remains in **LRU mode**, producing the highest hit rate.
 
 ### RTL Waveform
 
-![Streaming Waveform](images/stream_wl_wave.png)
+![Streaming Waveform](Adaptive-Cache-Controller/images/stream_wl_wave.png)
 
 ### Console Output
 
-![Streaming Console](images/stream_wl_cons.png)
+![Streaming Console](Adaptive-Cache-Controller/images/stream_wl_cons.png)
 
 ### Results
 
@@ -231,11 +231,11 @@ The adaptive selector switches to **FIFO mode**.
 
 ### RTL Waveform
 
-![Mixed Waveform](images/mixed_wl_waves.png)
+![Mixed Waveform](Adaptive-Cache-Controller/images/mixed_wl_waves.png)
 
 ### Console Output
 
-![Mixed Console](images/mixed_wl_cons.png)
+![Mixed Console](Adaptive-Cache-Controller/images/mixed_wl_cons.png)
 
 ### Results
 
@@ -268,7 +268,7 @@ Clock Constraint
 
 # Resource Utilization
 
-![Utilization](images/utilization_report.png)
+![Utilization](Adaptive-Cache-Controller/images/utilization_report.png)
 
 | Resource | Used | Utilization |
 |-----------|-----:|------------:|
@@ -281,7 +281,7 @@ Clock Constraint
 
 # Timing Analysis
 
-![Timing](images/timing_report.png)
+![Timing](Adaptive-Cache-Controller/images/timing_report.png)
 
 | Parameter | Value |
 |-----------|--------|
@@ -296,7 +296,7 @@ All timing constraints are successfully met.
 
 # Power Analysis
 
-![Power](images/power_report.png)
+![Power](Adaptive-Cache-Controller/images/power_report.png)
 
 | Parameter | Value |
 |-----------|--------|
