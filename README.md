@@ -63,7 +63,7 @@ The adaptive selector analyzes the workload and generates a mode signal that con
 
 # RTL Architecture
 
-![Architecture](images/architecture_cache.png)
+![Architecture](Adaptive-Cache-Controller/images/architecture_cache.png)
 
 ---
 
