@@ -362,7 +362,6 @@ docs/
 ---
 
 
-**~NARENDRA**
-
-Department of ECE-VLSI
+# ~NARENDRA
+Department of ECE-VLSI  
 Indian Institute of Information Technology Senapati Manipur
