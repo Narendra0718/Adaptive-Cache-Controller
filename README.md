@@ -361,10 +361,8 @@ docs/
 
 ---
 
-## Author
 
-**Lakshmi Narendra Bokka**
+**~NARENDRA**
 
-B.Tech Electronics and Communication Engineering (VLSI)
-
-Indian Institute of Information Technology Senapati, Manipur
+Department of ECE-VLSI
+Indian Institute of Information Technology Senapati Manipur
