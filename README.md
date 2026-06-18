@@ -268,7 +268,7 @@ Clock Constraint
 
 # Resource Utilization
 
-![Utilization](Adaptive-Cache-Controller/images/utilization_report.png)
+![Utilization](Adaptive-Cache-Controller/synthesis/utilization_report.png)
 
 | Resource | Used | Utilization |
 |-----------|-----:|------------:|
@@ -281,7 +281,7 @@ Clock Constraint
 
 # Timing Analysis
 
-![Timing](Adaptive-Cache-Controller/images/timing_report.png)
+![Timing](Adaptive-Cache-Controller/synthesis/timing_report.png)
 
 | Parameter | Value |
 |-----------|--------|
@@ -296,7 +296,7 @@ All timing constraints are successfully met.
 
 # Power Analysis
 
-![Power](Adaptive-Cache-Controller/images/power_report.png)
+![Power](Adaptive-Cache-Controller/synthesis/power_report.png)
 
 | Parameter | Value |
 |-----------|--------|
